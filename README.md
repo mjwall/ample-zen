@@ -12,7 +12,7 @@ terminal. This is my first attempt at a theme.
 
 ## Screenshot
 
-![Ample Zen Screenshot]](https://raw.github.com/mjwall/ample-zen/master/ample-zen.png
+![Ample Zen Screenshot](https://raw.github.com/mjwall/ample-zen/master/ample-zen.png
  "Ample Zen Screenshot")
 
 ## Installation
