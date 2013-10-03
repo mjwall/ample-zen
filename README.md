@@ -43,7 +43,9 @@ can install this package with the following.
 M-x package-install ample-zen-theme
 ```
 
-This theme is not yet available on  [MELPA](http://melpa.milkbox.net).
+At the time of this commit, a pull request has been merged to
+[MELPA](http://melpa.milkbox.net).  At some point, `package-install
+ample-zen-theme` should work from there as well.
 
 ## Ugly colors in the terminal Emacs version
 
