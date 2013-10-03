@@ -10,6 +10,11 @@ I wanted to combine the colors of AmpleTheme and the robustness of
 Zenburn-Emacs.  It has been tested on Mac OSX 10.8 on both the GUI and
 terminal. This is my first attempt at a theme.
 
+## Screenshot
+
+![Ample Zen Screenshot]](https://raw.github.com/mjwall/ample-zen/master/ample-zen.png
+ "Ample Zen Screenshot")
+
 ## Installation
 
 Download `ample-zen-theme.el` to a directory like
