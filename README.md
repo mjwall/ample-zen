@@ -36,8 +36,14 @@ or call this in your `~/.emacs.d/init.el`
 
 ### Package.el
 
-This theme is not yet available on [Marmalade](http://marmalade-repo.org)
-or [MELPA](http://melpa.milkbox.net).
+If you have the [Marmalade](http://marmalade-repo.org) configured, you
+can install this package with the following.
+
+```lisp
+M-x package-install ample-zen-theme
+```
+
+This theme is not yet available on  [MELPA](http://melpa.milkbox.net).
 
 ## Ugly colors in the terminal Emacs version
 

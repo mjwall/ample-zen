@@ -1,4 +1,4 @@
-;;; ample-zen.el
+;;; ample-zen-theme.el --- AmpleZen Theme for Emacs 24
 
 ;; Filename: ample-zen-theme.el
 ;; Description: A Calm and Low Contract Dark Theme for Emacs 24
