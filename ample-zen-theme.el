@@ -3,7 +3,7 @@
 ;; Filename: ample-zen-theme.el
 ;; Description: A Calm and Low Contract Dark Theme for Emacs 24
 ;; Author: Michael Wall
-;; Version: 0.1
+;; Version: 0.2
 ;; URL: https://github.com/mjwall/ample-zen
 ;; Keywords: theme, dark, emacs 24
 
@@ -41,6 +41,7 @@
   '(("ample-zen-fg-1"     . "#c9c9c9")
     ("ample-zen-fg"       . "#bdbdb3")
     ("ample-zen-fg+1"     . "#9b9b9b")
+    ("ample-zen-bg-2"     . "#4c4c4c")
     ("ample-zen-bg-1"     . "#3b3b3b")
     ("ample-zen-bg-05"    . "#2e2e2e")
     ("ample-zen-bg"       . "#212121")
@@ -186,9 +187,10 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(font-latex-sectioning-5-face ((t (:foreground ,ample-zen-red :weight bold ))))
    `(font-latex-sedate-face ((t (:foreground ,ample-zen-yellow))))
 ;;;;; auto-complete
-   `(ac-candidate-face ((t (:background ,ample-zen-bg+3 :foreground "black"))))
+   `(ac-candidate-face ((t (:background ,ample-zen-bg+3 :foreground ,ample-zen-bg-2))))
    `(ac-selection-face ((t (:background ,ample-zen-blue-4 :foreground ,ample-zen-fg))))
-   `(popup-tip-face ((t (:background ,ample-zen-yellow-2 :foreground "black"))))
+   `(popup-face ((t (:background "black" :foreground ,ample-zen-bg+3))))
+   `(popup-tip-face ((t (:background ,ample-zen-orange-1 :foreground ,ample-zen-bg+3))))
    `(popup-scroll-bar-foreground-face ((t (:background ,ample-zen-blue-5))))
    `(popup-scroll-bar-background-face ((t (:background ,ample-zen-bg-1))))
    `(popup-isearch-match ((t (:background ,ample-zen-bg :foreground ,ample-zen-fg))))
