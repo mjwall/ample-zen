@@ -110,8 +110,6 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(success ((t (:foreground ,ample-zen-green :weight bold))))
    `(warning ((t (:foreground ,ample-zen-orange :weight bold))))
    `(error ((t (:foreground ,ample-zen-red+1 :weight bold))))
-   `(vertical-border ((t (:background "black" :foreground "black"))))
-   `(minibuffer-prompt ((t (:foreground ,ample-zen-yellow :weight bold))))
    `(menu ((t (:foreground ,ample-zen-fg :background ,ample-zen-bg))))
    `(minibuffer-prompt ((t (:foreground ,ample-zen-yellow))))
    `(mode-line
