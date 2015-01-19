@@ -3,7 +3,7 @@
 ;; Filename: ample-zen-theme.el
 ;; Description: A Calm and Low Contract Dark Theme for Emacs 24
 ;; Author: Michael Wall
-;; Version: 0.2
+;; Version: 0.3
 ;; URL: https://github.com/mjwall/ample-zen
 ;; Keywords: theme, dark, emacs 24
 
